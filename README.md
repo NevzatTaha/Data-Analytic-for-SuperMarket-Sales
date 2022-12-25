@@ -1,5 +1,5 @@
 # Data-Analytic-for-SuperMarket-Sales
-Data Information
+# Data Information
 
 Invoice id: Computer generated sales slip invoice identification number
 
@@ -35,7 +35,7 @@ Gross income: Gross income
 
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
-Business Questions?
+# Business Questions?
 Is there are a relation between total price and ratings?
 Which day cities make most sales?
 Which day supermarkets make most sales?
