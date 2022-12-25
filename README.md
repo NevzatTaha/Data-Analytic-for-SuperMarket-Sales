@@ -37,8 +37,13 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 
 # Business Questions?
 Is there are a relation between total price and ratings?
+
 Which day cities make most sales?
+
 Which day supermarkets make most sales?
+
 Is there a distinctive day that has to be observed because of dramatic decrease in total sales and customer satisfaction(rating)?
+
 Which day is the most effective to make advertisement works for the spesific product?
-Is there are a differences between different customer types and total price?
+
+Is there are a difference between different customer types and total prices?
