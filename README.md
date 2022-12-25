@@ -23,6 +23,12 @@ Total: Total price including tax
 
 Date: Date of purchase (Record available from January 2019 to March 2019)
 
+Day: Days of purchase
+
+Month:Month of purchase
+
+Day Number: Each number corresponds to each day.
+
 Time: Purchase time (10am to 9pm)
 
 Payment: Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet)
