@@ -34,3 +34,11 @@ Gross margin percentage: Gross margin percentage
 Gross income: Gross income
 
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
+
+Business Questions?
+Is there are a relation between total price and ratings?
+Which day cities make most sales?
+Which day supermarkets make most sales?
+Is there a distinctive day that has to be observed because of dramatic decrease in total sales and customer satisfaction(rating)?
+Which day is the most effective to make advertisement works for the spesific product?
+Is there are a differences between different customer types and total price?
