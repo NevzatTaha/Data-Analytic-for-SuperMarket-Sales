@@ -1,5 +1,5 @@
 # Data-Analytic-for-SuperMarket-Sales
-I have used python to clean, shape and stastic the data.I have also used powerbi and python to visualise the data
+I have used python to clean, shape, and I have also used it to get stastical meaning.Then, I have used powerbi and python to visualise the data.
 # Data Information
 
 Invoice id: Computer generated sales slip invoice identification number
