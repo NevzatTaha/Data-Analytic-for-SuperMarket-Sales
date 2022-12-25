@@ -1,4 +1,5 @@
 # Data-Analytic-for-SuperMarket-Sales
+I have used python to clean, shape and stastic the data.I have also used powerbi and python to visualise the data
 # Data Information
 
 Invoice id: Computer generated sales slip invoice identification number
