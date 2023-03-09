@@ -41,6 +41,13 @@ Gross margin percentage: Gross margin percentage
 Gross income: Gross income
 
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
+# Screenshots
+Power Bi 
+![1671976925770](https://user-images.githubusercontent.com/108625825/224170471-04b21d7e-2c69-4c28-a1e9-be487da00764.jpg)
+
+Average Rating Score of Different Cities between Days
+![1671976925633](https://user-images.githubusercontent.com/108625825/224170505-36ddf0f9-a89b-4d50-802a-0182e5e5f82a.jpg)
+
 
 # Business Questions?
 Is there are a relation between total price and ratings?
@@ -54,3 +61,10 @@ Is there a distinctive day that has to be observed because of dramatic decrease 
 Which day is the most effective to make advertisement works for the spesific product?
 
 Is there are a difference between different customer types and total prices?
+
+# Dataset link
+https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
+# Author
+Nevzat- Knowledge grows when shared !!!
+
